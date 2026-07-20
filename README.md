@@ -119,7 +119,7 @@ npx skills@latest add Jack-webcoder/contextforge-skills -a codex
 List the skills available in the repository:
 
 ```bash
-npx skills@latest add Jack-webcoder/contextforge-skills--list
+npx skills@latest add Jack-webcoder/contextforge-skills --list
 ```
 
 ## Local development
