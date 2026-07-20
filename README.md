@@ -107,19 +107,19 @@ ContextForge is built around two durable ledgers:
 After publishing this repository under your GitHub account:
 
 ```bash
-npx skills@latest add YOUR_GITHUB_USERNAME/contextforge-skills
+npx skills@latest add Jack-webcoder/contextforge-skills
 ```
 
 To target a specific supported agent:
 
 ```bash
-npx skills@latest add YOUR_GITHUB_USERNAME/contextforge-skills -a codex
+npx skills@latest add Jack-webcoder/contextforge-skills -a codex
 ```
 
 List the skills available in the repository:
 
 ```bash
-npx skills@latest add YOUR_GITHUB_USERNAME/contextforge-skills --list
+npx skills@latest add Jack-webcoder/contextforge-skills--list
 ```
 
 ## Local development
