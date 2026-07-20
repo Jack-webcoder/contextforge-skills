@@ -1,0 +1,6 @@
+interface:
+  display_name: "Test"
+  short_description: "Protect behavior with regression tests"
+  default_prompt: "Add and run the highest-value automated tests for this change, then update its evidence."
+policy:
+  allow_implicit_invocation: true

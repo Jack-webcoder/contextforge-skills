@@ -1,0 +1,6 @@
+interface:
+  display_name: "Decide"
+  short_description: "Record a load-bearing decision"
+  default_prompt: "Help resolve this project decision and write an ADR with alternatives and consequences."
+policy:
+  allow_implicit_invocation: true

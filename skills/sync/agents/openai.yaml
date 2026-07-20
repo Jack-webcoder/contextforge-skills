@@ -1,0 +1,6 @@
+interface:
+  display_name: "Sync"
+  short_description: "Reconcile durable project truth"
+  default_prompt: "Sync the repository's durable context and statuses with what is actually implemented and verified."
+policy:
+  allow_implicit_invocation: true

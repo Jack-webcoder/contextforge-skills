@@ -1,0 +1,6 @@
+interface:
+  display_name: "Review"
+  short_description: "Independent senior change review"
+  default_prompt: "Review this change independently against its contract, decisions, tests, and verification evidence."
+policy:
+  allow_implicit_invocation: true

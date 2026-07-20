@@ -1,0 +1,6 @@
+interface:
+  display_name: "Build"
+  short_description: "Implement without inventing architecture"
+  default_prompt: "Implement the approved change, respecting ADRs, the spec, and project instructions."
+policy:
+  allow_implicit_invocation: true

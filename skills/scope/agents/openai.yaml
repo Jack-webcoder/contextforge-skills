@@ -1,0 +1,6 @@
+interface:
+  display_name: "Scope"
+  short_description: "Plan product scope and next slice"
+  default_prompt: "Create or update the project roadmap and identify the next shippable slice."
+policy:
+  allow_implicit_invocation: true

@@ -1,0 +1,6 @@
+interface:
+  display_name: "Debug"
+  short_description: "Fix bugs by proven root cause"
+  default_prompt: "Reproduce this bug, identify and fix the root cause, verify the fix, and prepare a regression test handoff."
+policy:
+  allow_implicit_invocation: true

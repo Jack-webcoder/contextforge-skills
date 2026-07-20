@@ -1,0 +1,6 @@
+interface:
+  display_name: "Document"
+  short_description: "Write human-facing change documentation"
+  default_prompt: "Document this completed change from the actual diff and evidence."
+policy:
+  allow_implicit_invocation: true
